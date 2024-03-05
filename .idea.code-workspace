@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".idea"
+		},
+		{
+			"path": "api-gateway"
+		},
+		{
+			"path": "currency-conversion-service"
+		},
+		{
+			"path": "currency-exchange-service"
+		},
+		{
+			"path": "naming-server"
+		},
+		{
+			"path": "spring-cloud-config-server"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
